@@ -63,7 +63,7 @@ Before diving into development, familiarize yourself with the following files:
 - [plugins/operators/load_fact.py](plugins/operators/load_fact.py)
 - [plugins/operators/load_dimension.py](plugins/operators/load_dimension.py)
 - [plugins/operators/stage_redshift.py](plugins/operators/stage_redshift.py)
-- [plugins/helpers/sql_queries.py](plugins/helpers/sql_queries.py)
+- [plugins/helpers/sql_query.py](plugins/helpers/sql_query.py)
 - [dags/final_project.py](dags/final_project.py)
 
 Now you're ready to embark on this exciting journey into the world of Data Pipelines with Airflow!

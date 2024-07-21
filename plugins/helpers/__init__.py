@@ -1,5 +1,5 @@
-from helpers.sql_queries import SqlQueries
+from helpers.sql_queries import Sqlquery
 
 __all__ = [
-    'SqlQueries',
+    'Sqlquery',
 ]
