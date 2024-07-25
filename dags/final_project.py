@@ -13,7 +13,7 @@ default_args = {
     'depends_on_past': False,
     'retries': 3,
     'retry_delay': 5,
-    'catchup': True,
+    'catchup': False,
     'start_date': pendulum.now(),
 }
 
